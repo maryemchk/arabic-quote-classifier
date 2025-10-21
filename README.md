@@ -6,7 +6,7 @@
 
 This project implements an automatic classification system for Arabic quotes using Natural Language Processing (NLP) techniques. The system categorizes Arabic quotes into different thematic categories, addressing the unique linguistic and cultural challenges of Arabic text processing.
 
-**Authors**: Maryem Chakr oun, Refka Mechri & Nada Joobeur  
+**Author**: Maryem Chakroun  
 **Supervisor**: Mariem Gzara
 
 ## 📊 Dataset Statistics
